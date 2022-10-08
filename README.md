@@ -7,7 +7,8 @@ Use deep learning computer vision models to automatically detect, count, and cla
 Four types of models are available: a taxonomic class model that classifies objects as mammal or avian; a taxonomic family model that recognizes 31 mammal, avian, and reptile families; a pig-only model that recognizes wild pigs and classifies all other detections as not-pig; a species model that recognizes 75 unique domestic and wild species including all North American wild cat species, bear species, and Canid species. Each model also includes a category for vehicles and empty images.
 
 See the [wiki](https://github.com/CameraTrapDetectoR/DesktopApp/wiki/) for complete installation and user instructions.  
-  
+
+[Click here](https://drive.google.com/file/d/1cCUviFaIIS5Hxmkq7FnY7TS90SPYeOiF/view?usp=sharing) to download the desktop application.
 
 ## Citation
 
