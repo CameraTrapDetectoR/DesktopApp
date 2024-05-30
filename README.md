@@ -8,7 +8,7 @@ Four types of models are available: a taxonomic class model that classifies obje
 
 See the [wiki](https://github.com/CameraTrapDetectoR/DesktopApp/wiki/) for complete installation and user instructions.  
 
-[Click here] to download the desktop application.
+[Click here](https://drive.google.com/file/d/1QAOhiICwbT_PY_Vzl59FlA2oWBBmpS53/view?usp=sharing) to download the desktop application.
 
 ## Citation
 
